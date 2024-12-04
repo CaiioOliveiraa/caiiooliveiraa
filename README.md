@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  Frameworks: Django.
+  Frameworks: <strong>Django.</strong>
 </p>
 
 
