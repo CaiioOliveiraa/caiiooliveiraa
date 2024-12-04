@@ -27,6 +27,6 @@
 <p align="left">
  
   <a href="https://www.linkedin.com/in/caiohenrique-oliveira/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https://www.linkedin.com%2Fin%2Fcaiohenrique-oliveira"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com%2Fin%2Fcaiohenrique-oliveira"/>
   </a>
 </p>
