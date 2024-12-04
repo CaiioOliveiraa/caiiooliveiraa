@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
- <strong>Atualmente em transição de carreira para a área de tecnologia, mais precisamente para desenvolvimento Backend>.
+ <strong>Atualmente em transição de carreira para a área de tecnologia, mais precisamente para desenvolvimento Backend</strong>.
 </p>
 
 <p align="left">
