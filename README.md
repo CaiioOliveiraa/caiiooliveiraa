@@ -1,16 +1,32 @@
-## Hi there 👋
+## Olá, meu nome é Caio Oliveira!
 
-<!--
-**CaiioOliveiraa/caiiooliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
 
-Here are some ideas to get you started:
+ <strong>Atualmente em transição de carreira para a área de tecnologia, mais precisamente para desenvolvimento Backend>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Linguagens: <strong>Pyrhon</strong>.
+</p>
+
+<p align="left">
+   Banco de Dados: <strong>MySQL</strong>.
+</p>
+
+<p align="left">
+  Frameworks: Django.
+</p>
+
+
+<br>
+
+<p align="left">
+<strong>Contato:</strong>
+</p>
+
+<p align="left">
+ 
+  <a href="https://www.linkedin.com/in/caiohenrique-oliveira/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https://www.linkedin.com%2Fin%2Fcaiohenrique-oliveira"/>
+  </a>
+</p>
