@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>Pyrhon</strong>.
+  Linguagens: <strong>Pyrhon e JavaScript</strong>.
 </p>
 
 <p align="left">
